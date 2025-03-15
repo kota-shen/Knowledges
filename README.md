@@ -7,4 +7,4 @@
 
 ## Networking
 
-<a href="https://d33wubrfki0l68.cloudfront.net/80feff7a74835e452c0520bf2eed2df5ee468b68/2745e/assets/images/ccna/ddeaa44e-3fbf-4642-afc8-d25650fc613d.png">Modèle OSI</a>
+<a href="https://d33wubrfki0l68.cloudfront.net/80feff7a74835e452c0520bf2eed2df5ee468b68/2745e/assets/images/ccna/ddeaa44e-3fbf-4642-afc8-d25650fc613d.png">Modèle TCP/IP</a>

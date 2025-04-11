@@ -11,7 +11,7 @@ Création d'un réseau virtuel en host-only
 
 Configuration du Trunk :
 
-![[trunk.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/trunk.png">
 
 ![[trunk2.png]]!
 

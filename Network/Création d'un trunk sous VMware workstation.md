@@ -1,6 +1,6 @@
 Mise en place réseau virtuel dans vmware workstation
 
-![[virtual network editor.png]]
+![[(https://github.com/kota-shen/Knowledges/blob/main/Network/Images/virtual%20network%20editor.png)]]
 
 ![[virtual network editor2.png]]!
 

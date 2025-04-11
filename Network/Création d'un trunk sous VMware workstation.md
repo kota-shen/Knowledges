@@ -9,7 +9,7 @@ Création d'un réseau virtuel en host-only
 <img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/virtual%20network%20editor3.png">
 
 
-Configuration du Trunk :
+Configuration du Trunk sur la machine hôte :
 
 <img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/trunk.png">
 

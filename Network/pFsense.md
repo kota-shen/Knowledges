@@ -7,87 +7,87 @@
 - em2 : VLAN10 (Trunk)
 
 
-![[pfsense.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense.png">
 
-![[pfsense2.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense2.png">
 
-![[pfsense3.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense3.png">
 
-![[pfsense4.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense4.png">
 
 Assignement des interfaces
 
-![[pfsense5.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense5.png">
 
-![[pfsense6.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense6.png">
 
-![[pfsense7.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense7.png">
 
-![[pfsense8.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense8.png">
 
 Définition de l'adresse IP de l'interface lan
 
-![[pfsense9.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense9.png">
 
-![[pfsense10.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense10.png">
 
-![[pfsense11.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense11.png">
 
 Accès au Web portal
 
-![[pfsense12.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense12.png">
 
-![[pfsense13.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense13.png">
 
-![[pfsense14.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense14.png">
 
 Setup de base
 
-![[pfsense15.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense15.png">
 
-![[pfsense16.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense16.png">
 
-![[pfsense17.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense17.png">
 
-![[pfsense18.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense18.png">
 
-![[pfsense19.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense19.png">
 
 Assignement interfaces supplémentaires, Vlan
 
-![[pfsense20.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense20.png">
 
-![[pfsense21.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense21.png">
 
-![[pfsense22.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense22.png">
 
-![[pfsense23.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense23.png">
 
-![[pfsense24.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense24.png">
 
-![[pfsense25.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense25.png">
 
-![[pfsense26.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense26.png">
 
-![[pfsense27.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense27.png">
 
-![[pfsense28.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense28.png">
 
 Création règles de pare-feu de base pour permettre les communications depuis interfaces Optionnelles/Vlans
 
-![[pfsense29.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense29.png">
 
-![[pfsense30.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense30.png">
 
-![[pfsense31.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense31.png">
 
-![[pfsense32.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense32.png">
 
 Activation et réglages DHCP sur les différentes interfaces/Vlans
 
-![[pfsense33.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense33.png">
 
-![[pfsense34.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense34.png">
 
-![[pfsense35.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/pfsense35.png">
 

@@ -13,7 +13,7 @@ Configuration du Trunk :
 
 <img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/trunk.png">
 
-![[trunk2.png]]!
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/trunk2.png">
 
 ![[trunk3.png]]
 

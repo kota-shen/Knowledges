@@ -6,7 +6,7 @@ Mise en place réseau virtuel dans vmware workstation
 
 Création d'un réseau virtuel en host-only
 
-![[virtual network editor3.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/virtual%20network%20editor3.png">
 
 
 Configuration du Trunk :

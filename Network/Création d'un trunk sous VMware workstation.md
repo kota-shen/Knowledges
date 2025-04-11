@@ -19,11 +19,11 @@ Configuration du Trunk :
 
 Modification des propriétés avancées 
 
-![[trunk4.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/trunk4.png">
 
-![[trunk5.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/trunk5.png">
 
 Configuration VLAN ID "VLAN aware"
 
-![[trunk6.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/trunk6.png">
 

@@ -12,18 +12,18 @@ Installation d'une distribution Firewall Endian
 	1 Interface LAN (Static)
 		- Network 10.1.73.0/24
 
-![[Endian 1.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/Endian%201.png">
 
-![[Endian 2.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/Endian%202.png">
 
-![[Endian 3.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/Endian%203.png">
 
-![[Endian 4.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/Endian%204.png">
 
-![[Endian 5.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/Endian%205.png">
 
-![[Endian 6.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/Endian%206.png">
 
-![[Endian 7.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/Endian%207.png">
 
-![[Endian 8.png]]
+<img src="https://github.com/kota-shen/Knowledges/blob/main/Network/Images/Endian%208.png">
